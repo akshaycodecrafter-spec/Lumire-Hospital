@@ -2,7 +2,7 @@
 
 A landing page concept for a high-end private hospital and clinic — the kind of place that treats checkups like an experience, not a chore.
 
-🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
+🔗 **Live:** https://lumire-hospital.akshaycodecrafter.workers.dev/
 
 ## Preview
 
